@@ -1,2 +1,3 @@
 # Acid-Assm-Piano
-Este projecto implementa  um piano virtual capturando às teclas que representam notas musicais e usando o auto falante pra reproduzir suas frequências. OBS:Nao usei nunhum compilador pra assembly e sim o saudoso debug.exe no MS-DOS. Versoes atuais do winddows nao o possuem portanto, se desejar rodar o programa voce presisara rodar o debug.exe dentro do DOSBox.
+This project implements a virtual piano capturing keys that represent musical notes and using the speaker to reproduce its frequencies.
+NOTE: I did not use any compiler for assembly but rather the late debug.exe in MS-DOS. Current versions of winddows do not have it so if you want to run the program you will have to run debug.exe inside DOSBox.
