@@ -4,7 +4,7 @@ This simple project implements some skills learned in x86-assembly running on Wi
 It's a kind of [oldest game piano] whose keys I used to represent the 7 natural musical notes [C, D, E, F, G, A, B]
 and making use of bios interrupts to play its frequencies through the speaker
 
-NOTE: I didn't use any IDE or compiler for assembly, but the utilitie [debug.exe] running in MS-DOS - then variables & data was written directly on memory offset :)
+NOTE: I didn't use any IDE or compiler for assembly, but the utilitie [debug.exe] running in MS-DOS - then there is no labels, variables & data was written directly on memory offset :)
 
 As the current Windows versions does not have MS-DOS anymore, if you want to run this little program you problaby can run [debug.exe] inside the DOSBox or a VM for an old version Windows image(XP or later) <p>
 DOSBox: https://www.dosbox.com/
